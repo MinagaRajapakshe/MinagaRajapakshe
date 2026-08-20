@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minaga Rajapakshe</h1>
-<h3 align="center">An undergraduate at University of Moratuwa, Sri Lanka</h3>
+<h3 align="center">An Computer Science & Engineering undergraduate at University of Moratuwa, Sri Lanka</h3>
 
-- 🔭 I’m currently working on **CS50p Final Project**
+- 🔭 I’m currently working on **Term-1 Project**
 
 - 📫 How to reach me **rajapaksheminaga@gmail.com**
 
